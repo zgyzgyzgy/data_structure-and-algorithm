@@ -1,7 +1,21 @@
 CHAPTER 1 Python Introduction
-###########################################################################################################
+#######################################################################################################################################################################
 Python is an Interpreted language，it's commands were impleted in a software called Python Interpreter.
 Source codes are usually stored in a file with ending as .py form.
 Linux and Unix are pre-installed python, we can call it up by using the command "python" in the command line interface.
-###########################################################################################################
+#######################################################################################################################################################################
 Python IDE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IDE which is short-cut for Intergrated Development Enviorment. 
+As it's name said, IDE is a software can produce a text-editor and a program debugger with a link to complier.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Python Grammar
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Class
+Python is an object-oriented language, so the class is an essential concept and basic of data types.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Assignment Statement
+example1: a=b; //make b value equals to a, give the value of b to the intance a.
+example2: c=2; //make 2 equals to a , give the value 2 to the instance c.
+error1: 122=a; //SyntaxError: cannot assign to literal.
+error2:   1=b; //SyntaxError: cannot assign to literal.
