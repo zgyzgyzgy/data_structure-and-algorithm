@@ -1,0 +1,7 @@
+CHAPTER 1 Python Introduction
+###########################################################################################################
+Python is an Interpreted language，it's commands were impleted in a software called Python Interpreter.
+Source codes are usually stored in a file with ending as .py form.
+Linux and Unix are pre-installed python, we can call it up by using the command "python" in the command line interface.
+###########################################################################################################
+Python IDE
